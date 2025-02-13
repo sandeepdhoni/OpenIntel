@@ -1,4 +1,4 @@
-# 🚀 OpenIntel - Powerfull OSINT Reconnaissance Framework
+# 🚀 OpenIntel -  OSINT Reconnaissance Framework
 
 OpenIntel is an all-in-one Open Source Intelligence (OSINT) and reconnaissance toolkit designed for security professionals, ethical hackers, and cybersecurity enthusiasts to gather actionable intelligence from various public sources. 🕵️‍♂️🌍
 
