@@ -5,7 +5,7 @@ OpenIntel is an all-in-one Open Source Intelligence (OSINT) and reconnaissance t
 This tool empowers users to map digital footprints, analyze domains, gather metadata, track online activity, and much more—providing a modern approach to OSINT.
 # OpenIntel - Advanced OSINT Tool
 
-![OpenIntel Banner](https://github.com/sandeepdhoni/openintel/image.png)
+![OpenIntel Banner](image.png)
 
 OpenIntel is a powerful OSINT and reconnaissance tool...
 ---
