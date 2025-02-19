@@ -120,7 +120,7 @@ This tool is intended for **legal and ethical use only**. The author is **not re
 
 ## 👤 Author
 **Sandeep**  
-🔗 [GitHub Profile](https://github.com/sandeepdhoni)
+🔗 [GitHub Profile](https://github.com/sandeep-rajendiran)
 
 ---
 
